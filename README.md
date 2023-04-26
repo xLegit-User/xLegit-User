@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <!--
-**xLegit-User/xLegit-User** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+jossef/README.md
+Hi there! My name is Jossef
 
-Here are some ideas to get you started:
+I am passionate about Linux and Windows, and I have a strong interest in exploring the possibilities of Mac in the future. With my expertise in IoT and a knack for creating real-life automation solutions, I am able to control a variety of devices using my phone. Additionally, I am a designer and digital asset creator, with a focus on pixel-perfect UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+In my free time, I enjoy growing hot peppers and organizing hot pepper events in Ramat Gan, the second best city in Israel. I am also an active member of the open-source community, and I am ranked in the top 1% on Stack Overflow.
+
+In 2020, I co-founded Dustico, a software supply chain security company that was acquired by Checkmarx the following year. Since then, I have been working with my team to identify and prevent software supply chain attackers, ensuring the safety of the ecosystem.
+
+Feel free to check out my Github repositories to see some of the projects I have been working on.
+
+
 -->
