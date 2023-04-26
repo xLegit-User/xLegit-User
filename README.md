@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 jossef/README.md
 Hi there! My name is Jossef
 
@@ -13,4 +10,3 @@ In 2020, I co-founded Dustico, a software supply chain security company that was
 Feel free to check out my Github repositories to see some of the projects I have been working on.
 
 
--->
